@@ -1,9 +1,9 @@
-#  Store Sales Analysis Dashboard (Microsoft Excel)
+#  📊Store Sales Analysis Dashboard (Microsoft Excel)
 
 An interactive sales analytics dashboard built in Microsoft Excel using Pivot Tables, Charts, KPIs, and Slicers to analyze annual store performance.
 
 
-##  Project Overview
+## 📌 Project Overview
 
 This project transforms raw retail sales data into an interactive dashboard that helps analyze:
 
