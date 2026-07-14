@@ -39,12 +39,8 @@ The dashboard enables quick business insights for better decision-making.
 ## 📈 Dashboard Preview
 
 ### Main Dashboard
-
-<p align="center">
-<img src="dashboard.png" width="900">
-</p>
-
----
+![Dashboard](dashboard.png<img width="1262" height="642" alt="image" src="https://github.com/user-attachments/assets/d4773bee-3ebf-4a9c-b9c1-b668d46a0bf3" />
+)
 
 ## 📊 Dashboard Insights
 
